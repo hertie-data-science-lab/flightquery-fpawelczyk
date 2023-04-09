@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Date: Feb 26th 2023
+@author: Juan Pablo Brasdefer [225936] (juanbrasdefer) Fabian Pawelczyk [226921] (fpawelczyk)
+"""
 from SortedTableMap import *
 
 class FlightQuery(SortedTableMap):
